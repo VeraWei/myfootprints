@@ -1,0 +1,86 @@
+body,
+html,
+#map-canvas {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  margin: 0;
+  position: relative;
+}
+img {
+  width: 100%;
+  display: block;
+}
+li {
+  list-style: none;
+}
+.contents {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  top: 0;
+  left: 0;
+  opacity: 0;
+  visibility: hidden;
+}
+.content {
+  width: 80%;
+  margin: auto;
+  background-color: rgba(33, 33, 33, 0.6);
+  position: relative;
+}
+.content ul {
+  padding: 20px;
+  padding-top: 10px;
+}
+.cityName {
+  color: white;
+  font-size: 32px;
+}
+.descript {
+  color: white ;
+  font-size: 20px;
+  font-family: cursive;
+}
+.close {
+  position: absolute;
+  right: 20px;
+  top: 0px;
+  width: 47px;
+  height: 47px;
+  cursor: pointer;
+}
+#map {
+  height: 180px;
+}
+.picture {
+  width: 40%;
+}
+.picture8 {
+  max-width: 1280px;
+  width: 80%;
+}
+.picture7 {
+  max-width: 640px;
+}
+.picture5 {
+  max-width: 670px;
+  width: 80%;
+}
+.picture4 {
+  max-width: 1280px;
+  width: 80%;
+}
+.picture3 {
+  max-width: 640px;
+}
+.picture2 {
+  max-width: 640px;
+}
+.picture1 {
+  max-width: 640px;
+}
+.picture0 {
+  max-width: 542px;
+}

@@ -1,0 +1,56 @@
+[
+	{
+		"ID":0,
+		"cityName":"Wuxi",
+		"description":"It was raining all day. The perfect monment for was accompany with friends. I like the flowers.",
+		"imgSrc":"img/wx.jpg"
+	},
+	{
+		"ID":1,
+		"cityName":"Nanjing",
+		"description":"I am living here for six years. I graduate from the university of this city. I loved it forever no matter what will happen in the future.",
+		"imgSrc":"img/nj.jpg"
+	},
+	{
+		"ID":2,
+		"cityName":"Changchun",
+		"description":"My hometown. My soul will come back after I died.",
+		"imgSrc":"img/cc.jpg"
+	},
+	{
+		"ID":3,
+		"cityName":"Chongqing",
+		"description":"There were a few jokes happened between me and my friend. So embarrassed. :-)",
+		"imgSrc":"img/cq.jpg"
+	},
+	{
+		"ID":4,
+		"cityName":"Chengdu",
+		"description":"The city is super clean and suitable for all the old man to live in. The Dujiangyan is so grand.",
+		"imgSrc":"img/cd.jpg"
+	},
+	{
+		"ID":5,
+		"cityName":"Harbin",
+		"description":"I went here with my two best friends. We visited the grand ice sculpture. Amazing.",
+		"imgSrc":"img/hb.jpg"
+	},
+	{
+		"ID":6,
+		"cityName":"Qingdao",
+		"description":"The frist trip organized by company. I lived at seaside the frist time. Comfortable and unforgetable.",
+		"imgSrc":"img/qd.jpg"
+	},
+	{
+		"ID":7,
+		"cityName":"Xi'an",
+		"description":"The second trip organized by company. The most unforgetable experience for me was the vast sky gallery road. So exciting.",
+		"imgSrc":"img/xa.jpg"
+	},
+	{
+		"ID":8,
+		"cityName":"Changsha",
+		"description":"I am here for business trip now.",
+		"imgSrc":"img/cs.jpg"
+	}
+]
