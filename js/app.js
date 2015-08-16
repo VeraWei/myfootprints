@@ -2,6 +2,7 @@ function initialize() {
     var a = {
         zoom: 4
     };
+    
     map = new google.maps.Map(document.getElementById("map-canvas"), a), navigator.geolocation ? navigator.geolocation.getCurrentPosition(function(a) {
         pos = new google.maps.LatLng(a.coords.latitude, a.coords.longitude), map.panTo(pos), map.setCenter(pos), window.setTimeout(placeMarker, 2000);
     }, function() {

@@ -119,6 +119,21 @@
     "timezone": "Asia/Shanghai",
     "zip": ""
 }, {
+    "as": "AS4134 Chinanet",
+    "city": "Jiaxing",
+    "country": "China",
+    "countryCode": "CN",
+    "isp": "China Telecom",
+    "lat": 30.7522,
+    "lon": 120.75,
+    "org": "China Telecom Jiaxing",
+    "query": "61.153.230.157",
+    "region": "33",
+    "regionName": "Zhejiang Sheng",
+    "status": "success",
+    "timezone": "Asia/Shanghai",
+    "zip": ""
+}, {
     "as": "AS4837 CNCGROUP China169 Backbone",
     "city": "Changsha",
     "country": "China",
@@ -130,6 +145,36 @@
     "query": "58.20.79.13",
     "region": "43",
     "regionName": "Hunan",
+    "status": "success",
+    "timezone": "Asia/Shanghai",
+    "zip": ""
+}, {
+    "as": "AS4134 Chinanet",
+    "city": "Xining",
+    "country": "China",
+    "countryCode": "CN",
+    "isp": "China Telecom",
+    "lat": 36.6167,
+    "lon": 101.7667,
+    "org": "China Telecom",
+    "query": "218.95.229.8",
+    "region": "63",
+    "regionName": "Qinghai Sheng",
+    "status": "success",
+    "timezone": "Asia/Shanghai",
+    "zip": ""
+}, {
+    "as": "AS4538 China Education and Research Network Center",
+    "city": "Dalian",
+    "country": "China",
+    "countryCode": "CN",
+    "isp": "China Education and Research Network Center",
+    "lat": 38.9122,
+    "lon": 121.6022,
+    "org": "China Education and Research Network Center",
+    "query": "58.154.144.23",
+    "region": "21",
+    "regionName": "Liaoning",
     "status": "success",
     "timezone": "Asia/Shanghai",
     "zip": ""
